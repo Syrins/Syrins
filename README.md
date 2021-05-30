@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](https://cdn.discordapp.com/attachments/675538346973462528/848379502400241694/freeCodeCamp.jpg)
 
 # Adrian Twarog
 I am Metehan from Turkey, I am making content on Design and Development. Besides working in Python, I really enjoy learning languages and frameworks like C and Java. I also like wireframing, ui, ux and design in general.
