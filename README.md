@@ -9,7 +9,7 @@ I am Metehan from Turkey, I am making content on Design and Development. Besides
 * 💻 Java , Javascript
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/wmp.gif" width="512" >
+<img src="https://cdn.discordapp.com/attachments/675538346973462528/848379554657468416/wmp.gif" width="512" >
 
 ## Github info
 
