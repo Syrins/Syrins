@@ -1,6 +1,15 @@
-# 6wumpus6 Profile Page 
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+# Adrian Twarog
+I am Metehan from Turkey, I am making content on Design and Development. Besides working in Python, I really enjoy learning languages and frameworks like C and Java. I also like wireframing, ui, ux and design in general.
+
+## Skills and Experience
+* ⚛ C# , C++
+* 📱 Python
+* 💻 Java , Javascript
+
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/wmp.gif" width="512" >
 
 ## Github info
 
@@ -24,4 +33,4 @@
 
 ### The song I listen to the most
 
-[![Spotify](http://www.oxygenu.rocks/bh.jpg)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
+[![Spotify](https://s1.cdn.autoevolution.com/images/news/someone-has-suggest-the-best-music-player-feature-we-need-in-cars-143207-7.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
