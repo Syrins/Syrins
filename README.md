@@ -30,6 +30,4 @@ I am Metehan from Turkey, I am making content on Design and Development. Besides
 
 ### The song I listen to the most
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
-
-[![Spotify](https://s1.cdn.autoevolution.com/images/news/someone-has-suggest-the-best-music-player-feature-we-need-in-cars-143207-7.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
