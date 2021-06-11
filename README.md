@@ -36,3 +36,5 @@ I am Metehan from Turkey, I am making content on Design and Development. Besides
 ### Test
 
 [![Spotify](https://spotify-mw574xrit-mthngs22-gmailcom.vercel.app)](https://open.spotify.com/user/vvxm4yy9aomu37lqtgiedyh4p)
+
+[![spotify-github-profile](https://spotify-mw574xrit-mthngs22-gmailcom.vercel.app&cover_image=true&theme=novatorem)](https://spotify-mw574xrit-mthngs22-gmailcom.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
