@@ -9,9 +9,9 @@ Since I am in the software profession, I am constantly coding and sharing it her
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I'm currently working on the **Valorant cheat**
-- 🤝 &nbsp; I'm selling [Valorant Injector](https://github.com/rahul-jha98/sheets-database).
+- 🤝 &nbsp; I'm selling [Valorant Injector](https://github.com/Syrins/Valorant-Cheat).
 - 🌱 &nbsp; I am currently learning TypeScript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories) but not completely open source.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Syrins/Valorant-Offset) but not completely open source.
 - 💬 &nbsp; Ask me anything about technology, I'm happy to help;
 - 📫 &nbsp; Feel free to ping me on [Discord](https://discord.gg/gdC4QXfeCc)
 - 📚 &nbsp; When I'm free, I read fantasy and fiction novels and play games.
