@@ -1,4 +1,4 @@
-## Hey 👋, I'm Josh Hill !
+
 
 Since I am in the software profession, I am constantly coding and sharing it here. Other than that, I cheat and write sell.
 <br/>
