@@ -19,7 +19,7 @@ Since I am in the software profession, I am constantly coding and sharing it her
 <br>
 
 ### 🔨 Languages and Tools:
-<h3 align="left">Discord : myusa#0704</h3>
+<h3 align="left">Discord : Syrins.</h3>
 <p align="left">
 </p>
 
