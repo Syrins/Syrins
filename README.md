@@ -16,13 +16,12 @@ Since I am in the software profession, I am constantly coding and sharing it her
 - 📚 &nbsp; When I'm free, I read fantasy and fiction novels and play games.
 
 <br>
+<br>
 
 ### 🔨 Languages and Tools:
-<h3 align="left">Discord : Syrins.</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
