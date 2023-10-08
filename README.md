@@ -34,7 +34,7 @@
  
  > ### 🎈 Socials 
  
- | 🐻 [Rkns](https://byte-breaker.com) | 🐴 [Rekonise](https://byte-breaker.com) | 🐦 [Twitter](https://twitter.com/Syrins) |
+ | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https://syrins.byte-breaker.com) | 🐦 [Twitter](https://twitter.com/Syrins) |
  
  ![DISCORD](https://discord.c99.nl/widget/theme-1/935959975698788392.png)
  
