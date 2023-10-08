@@ -1,27 +1,57 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=SYRINS)](https://git.io/typing-svg)
 
-Since I am in the software profession, I am constantly coding and sharing it here. Other than that, I cheat and write sell.
-<br/>
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=GITHUB.COM%2FSyrins)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
-  
-### 🧐 More About Me:
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-- 🔭 &nbsp; I'm currently working on the **Online System**
-- 🌱 &nbsp; I am currently learning Ruby;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Syrins/Valorant-Offset).
-- 💬 &nbsp; Ask me anything about technology, I'm happy to help;
-- 📫 &nbsp; Feel free to ping me on [Discord](https://discord.gg/P3u2hcNugn)
-- 📚 &nbsp; When I'm free, I read fantasy and fiction novels and play games.
 
-<br>
-<br>
+> ### ⚙️ Mastered languages: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;c#;perl,;c++,;next.js,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
-### 🔨 Languages and Tools:
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
+> ### 👉 Skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
 
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 👋 Already worked for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 🆕 Updates 
+ 
+```PY 
+ [+] Last update: 09/10/2023
+ [+] author: syrins
+ [+] owner: syrinsdev 
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > ### 🎈 Socials 
+ 
+ | 🐻 [Rkns](https://byte-breaker.com) | 🐴 [Rekonise](https://byte-breaker.com) | 🐦 [Twitter](https://twitter.com/Syrins) |
+ 
+ ![DISCORD](https://discord.c99.nl/widget/theme-1/935959975698788392.png)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
+
+ <br>
+ ```PY
+ Syrins
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > Made by syrins dev - README.md v.2.3
+ 
+  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+  
+
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/syrins/count.svg" />
