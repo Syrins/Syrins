@@ -1,0 +1,44 @@
+name: Generate Syrins Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build Snake Animations
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Neon Syrins Snake
+        id: neon_snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "Syrins"
+          outputs: |
+            dist/syrins-neon.svg?palette=neon&speed=1.2&cells=18
+            dist/syrins-neon-dark.svg?palette=github-dark&speed=1.4
+
+      - name: Generate Hacker Mode Snake
+        id: hacker_snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "Syrins"
+          outputs: |
+            dist/syrins-hacker-grid.svg?palette=github-dark&speed=1.8&stroke=2&cell_size=12
+            dist/syrins-hacker-alt.svg?palette=green&speed=2.0&stroke=1.5
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
